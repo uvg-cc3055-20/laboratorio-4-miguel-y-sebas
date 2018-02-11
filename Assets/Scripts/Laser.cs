@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+// Miguel Valle 17102
+// Sebastian Arriola 11463
 public class Laser : MonoBehaviour
 {
     public float speed;

@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+// Miguel Valle 17102
+// Sebastian Arriola 11463
 public class CreadorDeRocasEspacialesLocas : MonoBehaviour
 {
     // arreglo para los distintos prefabs de rocas

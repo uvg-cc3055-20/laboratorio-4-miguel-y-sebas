@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+// Miguel Valle 17102
+// Sebastian Arriola 11463
 public class RocaEspacial : MonoBehaviour
 {
     // se usa para desactivar el sprite de la roca

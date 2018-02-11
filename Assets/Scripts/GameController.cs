@@ -4,6 +4,8 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
+// Miguel Valle 17102
+// Sebastian Arriola 11463
 public class GameController : MonoBehaviour
 {
     // singleton

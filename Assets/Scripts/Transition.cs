@@ -4,6 +4,8 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
+// Miguel Valle 17102
+// Sebastian Arriola 11463
 public class Transition : MonoBehaviour
 {
     // texto para mostrar el highscore
